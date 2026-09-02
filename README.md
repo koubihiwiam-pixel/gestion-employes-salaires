@@ -208,10 +208,10 @@ Pour une utilisation en production, il est recommandé de :
 ![Heures supplémentaires](screenshots/heuresupp.PNG)
 
 ###  Demande de congé
-![Demande de congé](screenshots/demande-conge.PNG)
+![Demande de congé](screenshots/demade-conge.PNG)
 
 ###  Fiche de paie
-![Fiche de paie](screenshots/fiche-paiePNG.png)
+![Fiche de paie](screenshots/fiche-paiePNG.PNG)
 
 ## Auteur
 
