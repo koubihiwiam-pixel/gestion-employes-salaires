@@ -196,22 +196,22 @@ Pour une utilisation en production, il est recommandé de :
 ##  Captures d'écran
 
 ###  Page de connexion
-![Login](screenshots/login.png)
+![Login](screenshots/login.PNG)
 
 ###  Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.PNG)
 
 ###  Liste des employés
-![Liste des employés](screenshots/liste-employes.png)
+![Liste des employés](screenshots/liste-employes.PNG)
 
 ###  Heures supplémentaires
-![Heures supplémentaires](screenshots/heures-supplementaires.png)
+![Heures supplémentaires](screenshots/heuresupp.PNG)
 
 ###  Demande de congé
-![Demande de congé](screenshots/demande-conge.png)
+![Demande de congé](screenshots/demande-conge.PNG)
 
 ###  Fiche de paie
-![Fiche de paie](screenshots/fiche-paie.png)
+![Fiche de paie](screenshots/fiche-paiePNG.png)
 
 ## Auteur
 
