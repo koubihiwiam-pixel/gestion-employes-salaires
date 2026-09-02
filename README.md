@@ -161,13 +161,6 @@ $db = "bdd_2025";
 
 Adapter ces paramètres selon votre configuration MySQL.
 
-### 5. Lancer l'application
-
-Dans le navigateur :
-
-```text
-http://localhost/gestion-employes-salaires/
-```
 
 ## Base de données
 
