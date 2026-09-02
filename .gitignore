@@ -1,0 +1,15 @@
+# Configuration / secrets
+.env
+*.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary / backup files
+~*
+*.tmp
+*.bak
+archives/
