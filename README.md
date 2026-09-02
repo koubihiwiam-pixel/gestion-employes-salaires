@@ -199,10 +199,10 @@ Pour une utilisation en production, il est recommandé de :
 ![Login](screenshots/login.PNG)
 
 ###  Dashboard
-![Dashboard](screenshots/dashboard.PNG)
+![Dashboard](screenshots/dashbord.PNG)
 
 ###  Liste des employés
-![Liste des employés](screenshots/liste-employes.PNG)
+![Liste des employés](screenshots/liste_employe.PNG)
 
 ###  Heures supplémentaires
 ![Heures supplémentaires](screenshots/heuresupp.PNG)
