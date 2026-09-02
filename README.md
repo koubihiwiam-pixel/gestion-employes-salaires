@@ -192,28 +192,29 @@ Pour une utilisation en production, il est recommandé de :
 * renforcer la validation des données ;
 * utiliser HTTPS ;
 * renforcer la gestion des rôles et des permissions.
+* 
+##  Captures d'écran
+
+###  Page de connexion
+![Login](screenshots/login.png)
+
+###  Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+###  Liste des employés
+![Liste des employés](screenshots/liste-employes.png)
+
+###  Heures supplémentaires
+![Heures supplémentaires](screenshots/heures-supplementaires.png)
+
+###  Demande de congé
+![Demande de congé](screenshots/demande-conge.png)
+
+###  Fiche de paie
+![Fiche de paie](screenshots/fiche-paie.png)
 
 ## Auteur
 
-## 📸 Captures d'écran
-
-### 🔐 Page de connexion
-![Login](screenshots/login.png)
-
-### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### 👨‍💼 Liste des employés
-![Liste des employés](screenshots/liste-employes.png)
-
-### ⏱️ Heures supplémentaires
-![Heures supplémentaires](screenshots/heures-supplementaires.png)
-
-### 🏖️ Demande de congé
-![Demande de congé](screenshots/demande-conge.png)
-
-### 🧾 Fiche de paie
-![Fiche de paie](screenshots/fiche-paie.png)
 **Wiam Koubihi**
 
 Projet réalisé dans le cadre de la formation en **Génie Logiciel**.
